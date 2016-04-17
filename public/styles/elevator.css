@@ -1,0 +1,6 @@
+canvas {
+  // background-color: white;
+  box-sizing: content-box;
+  border: 1px solid #bbb;
+  margin: 50px;
+}
